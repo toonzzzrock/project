@@ -1,2 +1,2 @@
 # project
-For using in project only.
+For using in my project only.
